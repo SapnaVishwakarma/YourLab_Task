@@ -1,0 +1,39 @@
+body{
+    background-image: url(img2.jpg);
+    background-repeat: no-repeat;
+     height: 800px;
+}
+h1{
+    color: aliceblue;
+    font-size: 80px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: "Times New Roman", Times, serif;
+}
+ .para1{
+    color:#FFCCCC;
+    font-size: 40px;
+    margin-left: 100px;
+    font-family: "Papyrus"; 
+    margin-top: 200px;
+
+ }
+#quote{
+    color: azure;
+    font-size: 50px;
+    margin-left: 100px;
+    font-family: "Papyrus";
+    cursor: pointer;
+    text-shadow: 5px 5px 10px white;
+
+}
+
+footer {
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    color: beige;
+     padding: 10px 0;
+}
