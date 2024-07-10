@@ -1,0 +1,32 @@
+.body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+    width: 1550px;
+  }
+  #heading {
+    color: aliceblue;
+    font-size: 80px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .para1 {
+    color: azure;
+    font-size: 60px;
+    margin-left: 550px;
+    font-family: "Cursive";
+    font-weight: bold;
+    margin-top: 200px;
+   
+  }
+  #quote {
+    color: azure;
+    font-size: 70px;
+    margin-left: 40px;
+    font-family: "Cursive","Lucida Handwriting";
+    cursor: pointer;
+    text-shadow: 5px 5px 10px white;
+  }
+   
